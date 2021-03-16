@@ -1,0 +1,24 @@
+{
+  "name": "maggys-cooking-recipes",
+  "version": "1.0.0",
+  "description": "Cooking recipes application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magali-Rezeau/Maggys-cooking-recipes.git"
+  },
+  "author": "Magali Rézeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magali-Rezeau/Maggys-cooking-recipes/issues"
+  },
+  "homepage": "https://github.com/Magali-Rezeau/Maggys-cooking-recipes#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
